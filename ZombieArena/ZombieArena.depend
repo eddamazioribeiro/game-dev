@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522537808 source:/home/eduardo/Documents/Dev/cpp/ZombieArena/main.cpp
+	<SFML/Graphics.hpp>
+
+1522801128 source:/home/eduardo/Documents/Dev/cpp/ZombieArena/ZombieArena.cpp
+	<SFML/Graphics.hpp>
+	"Player.h"
+
+1522541132 /home/eduardo/Documents/Dev/cpp/ZombieArena/Player.h
+	<SFML/Graphics.hpp>
+

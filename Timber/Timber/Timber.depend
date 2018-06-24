@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522283658 source:/home/eduardo/Documents/Dev/cpp/Timber/Timber/main.cpp
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
